@@ -39,7 +39,6 @@ root.render(
   3. RequestStatus используется не все, подумать над boolean
     используется RequestStatus.Loading + RequestStatus.Success
 
-
   константы объединенные как enum или const as const! критерий!
   проверить типизацию useState!
   проверить key у компонентов, есть ли ошибки в консоли!
